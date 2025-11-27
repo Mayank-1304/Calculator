@@ -1,2 +1,2 @@
 # Calculator
-Basic calculator code
+Basic calculator code written in python
